@@ -35,27 +35,21 @@ I am a security-focused developer dedicated to building robust automation tools 
 
 ## 📂 Featured Repositories
 
+### ⚙️ [Universal APK Patcher](https://github.com/X-Abhishek-X/universal-apk-patcher)
+**Modular Android Modification Framework**
+- A plug-and-play framework for automating APK patching with a plugin-based architecture.
+
+### 🕵️‍♂️ [OSINT Leak Detector](https://github.com/X-Abhishek-X/osint-leak-detector)
+**Defensive Security Identity Monitoring**
+- Automated engine for monitoring data leaks and personal identifier exposure across the web.
+
 ### 🔒 [WiFi Security Auditor](https://github.com/X-Abhishek-X/wifi-security-auditor)
 **Educational Penetration Testing Suite**
-- An automated suite for wireless security auditing, specifically optimized for Termux.
-- Features: Network discovery, handshake acquisition, and password integrity testing.
+- Automated suite for wireless security auditing and network integrity testing.
 
-### 📺 [IPTV Automated Cleaner](https://github.com/X-Abhishek-X/IPTV-Automated-Cleaner)
-**Automated Stream Validation Engine**
-- A high-frequency automation engine that scrapes and validates public IPTV playlists.
-- Ensures 100% uptime by pruning dead links via concurrent validation.
-
-### 📱 [Snapchat Memories Downloader](https://github.com/X-Abhishek-X/Snapchat-All-Memories-Downloader)
-**High-Performance Data Recovery**
-- Asynchronous tool for bulk-exporting Snapchat memories with full metadata preservation (EXIF/GPS).
-- Engineered for speed and data integrity.
-
-### ⚙️ [ReVanced Automated Build Scripts](https://github.com/X-Abhishek-X/ReVanced-Automated-Build-Scripts)
-**CI/CD Mobile App Patching**
-- A sophisticated GitHub Actions suite that automatically builds periodically patched APKs.
-- Features: Daily monitoring, smart rebuilding, and automated release management.
-
----
+### 🛠️ [Python Utility Belt](https://github.com/X-Abhishek-X/python-utility-belt)
+**Consolidated Micro-Project Suite**
+- A curated collection of modular Python tools (Weather, Finance, Task Management).
 
 ## 📊 Analytics & Impact
 
