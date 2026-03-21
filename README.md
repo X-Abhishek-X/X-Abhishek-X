@@ -1,70 +1,23 @@
-# 👋 Hi, I'm X-Abhishek-X
+# 👋 I'm Abhishek (X-Abhishek-X)
 
-**Cloud Security Engineer | Automation Specialist | Open-Source Contributor**
+I'm a Security Engineer and Automation developer. I build tools for offensive/defensive security, OSINT, and data recovery. If there's a repetitive task, I've probably automated it.
 
----
+### 🛠 What I’m working on:
+- **[Snapchat-All-Memories-Downloader](https://github.com/X-Abhishek-X/Snapchat-All-Memories-Downloader):** High-performance tool to pull all your Snapchat memories, fix dates, and embed EXIF metadata.
+- **[Nvidia-Challenge](https://github.com/X-Abhishek-X/Nvidia-Challenge):** High-performance GPU telemetry using gRPC streams.
+- **[SOAR-Engine](https://github.com/X-Abhishek-X/soar-engine):** Automated incident response and threat remediation.
+- **[Auto-Patch-AI](https://github.com/X-Abhishek-X/Auto-Patch-AI):** Container vulnerability scanner that auto-fixes Dockerfiles with LLMs.
+- **[OSINT-Leak-Radar](https://github.com/X-Abhishek-X/OSINT-Leak-Radar):** Corporate data exposure engine for bug bounty hunters.
+- **[ReVanced-Scripts](https://github.com/X-Abhishek-X/revanced-apk-patcher-scripts):** Handling automated APK updates and patching workflows.
 
-## ⚡ Professional Overview
+### 💻 Stack:
+- **Languages:** Python (Primary), Golang, Bash, SQL.
+- **Security:** Penetration Testing, WiFi Auditing, Container Security (Trivy), eBPF.
+- **Infra:** Kubernetes, Docker, GitHub Actions, gRPC.
 
-I am a security-focused developer dedicated to building robust automation tools and enhancing digital privacy. My work spans across **Cybersecurity Research**, **Cloud Infrastructure**, and **High-Performance Automation**. I specialize in creating tools that empower users to take control of their data and secure their digital environments.
-
-- 🔭 **Current Focus:** Hardening cloud-native applications and developing automated security auditing suites.
-- 🌱 **Advanced Research:** Deep-diving into automated forensics and AI-driven intrusion detection.
-- 🎯 **Domain Expertise:** Penetration Testing (WiFi/Network), Pythonic Automation, and ReVanced Ecosystem.
-
----
-
-## 🛠️ Expert Tech Stack
-
-### **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### **Security & Research**
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### **Tools & Infrastructure**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📂 Featured Repositories
-
-### ⚙️ [Universal APK Patcher](https://github.com/X-Abhishek-X/universal-apk-patcher)
-**Modular Android Modification Framework**
-- A plug-and-play framework for automating APK patching with a plugin-based architecture.
-
-### 🕵️‍♂️ [OSINT Leak Detector](https://github.com/X-Abhishek-X/osint-leak-detector)
-**Defensive Security Identity Monitoring**
-- Automated engine for monitoring data leaks and personal identifier exposure across the web.
-
-### 🔒 [WiFi Security Auditor](https://github.com/X-Abhishek-X/wifi-security-auditor)
-**Educational Penetration Testing Suite**
-- Automated suite for wireless security auditing and network integrity testing.
-
-### 🛠️ [Python Utility Belt](https://github.com/X-Abhishek-X/python-utility-belt)
-**Consolidated Micro-Project Suite**
-- A curated collection of modular Python tools (Weather, Finance, Task Management).
-
-## 📊 Analytics & Impact
-
-![X-Abhishek-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Abhishek-X&show_icons=true&theme=radical)
+### 📊 Stats:
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Abhishek-X&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Abhishek-X&layout=compact&theme=radical)
 
 ---
-
-## 🤝 Collaboration & Support
-
-I am always looking to collaborate on high-impact security and automation projects.
-
-- **Security Researchers:** Open to joint auditing and forensics research.
-- **Automation Enthusiasts:** Let's build scalable tools together.
-- **Support:** If you find my tools useful, feel free to star the repositories!
-
----
-*Built with privacy and security at the core.*
+*If you find any of my tools useful, feel free to star the repo. Open to collaborating on anything security or automation related.*
