@@ -14,6 +14,24 @@
 
 Six tools. One workflow. Built from scratch.
 
+```mermaid
+graph TD
+    A["🔍 OSINT-Leak-Radar"] --> C["🔬 forensic-timeline-builder"]
+    B["📡 wifi-security-auditor"] --> C
+    C --> D["⚡ soar-engine"]
+    D --> E["🩹 Auto-Patch-AI"]
+    D -.->|always on| F["📊 cve-watch"]
+
+    style A fill:#0d1117,stroke:#00ff41,color:#00ff41
+    style B fill:#0d1117,stroke:#00ff41,color:#00ff41
+    style C fill:#0d1117,stroke:#58a6ff,color:#58a6ff
+    style D fill:#0d1117,stroke:#f85149,color:#f85149
+    style E fill:#0d1117,stroke:#3fb950,color:#3fb950
+    style F fill:#0d1117,stroke:#d29922,color:#d29922
+```
+
+<br/>
+
 | Stage | Tool | What it does |
 |:---:|---|---|
 | 🔍 Recon | **[OSINT-Leak-Radar](https://github.com/X-Abhishek-X/OSINT-Leak-Radar)** | Queries Wayback Machine CDX for `.env` files, SQL dumps, and private keys crawled years ago |
@@ -22,6 +40,18 @@ Six tools. One workflow. Built from scratch.
 | ⚡ Respond | **[soar-engine](https://github.com/X-Abhishek-X/soar-engine)** | FastAPI webhook → Redis queue → Celery workers. Async playbooks: VirusTotal enrichment + firewall block + Slack |
 | 🩹 Patch | **[Auto-Patch-AI](https://github.com/X-Abhishek-X/Auto-Patch-AI)** | Trivy scans container → LLM (Groq free / OpenAI) writes patched Dockerfile. Free to run. |
 | 📊 Monitor | **[cve-watch](https://github.com/X-Abhishek-X/cve-watch)** | NVD + EPSS enrichment. Ranks by `cvss × exploit_probability` — not just severity theatre |
+
+<br/>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X-Abhishek-X/X-Abhishek-X/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X-Abhishek-X/X-Abhishek-X/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/X-Abhishek-X/X-Abhishek-X/output/snake.svg" />
+  </picture>
+</div>
 
 <br/>
 
