@@ -15,6 +15,7 @@
 Six tools. One workflow. Built from scratch.
 
 ```mermaid
+%%{init:{"flowchart":{"wrappingWidth":250,"nodeSpacing":40,"rankSpacing":50}}}%%
 graph TD
     A["🔍 OSINT-Leak-Radar"] --> C["🔬 forensic-timeline-builder"]
     B["📡 wifi-security-auditor"] --> C
@@ -60,9 +61,9 @@ graph TD
 ### Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=X-Abhishek-X&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=X-Abhishek-X&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Abhishek-X&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=X-Abhishek-X&theme=github_dark" />
 </div>
 
 <br/>
