@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=Security+Engineer+%2F+Automation+Dev;I+build+tools+that+catch+threats;Detect+%E2%86%92+Respond+%E2%86%92+Patch+%E2%86%92+Monitor;EPSS+%C3%97+CVSS+%3D+what%27s+actually+on+fire" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=720&lines=Cybersecurity+%2B+Applied+ML;I+build+tools+that+catch+threats;Detect+%E2%86%92+Respond+%E2%86%92+Patch+%E2%86%92+Monitor" alt="Typing SVG" />
 
 </div>
 
-<p align="center"><i>Building security automation that actually gets deployed — not just demo'd.</i></p>
+<p align="center"><i>Cybersecurity grad student. Applied ML research that escaped the lab. Building tools that get deployed — not just demo'd.</i></p>
 
 <br/>
 
 ---
 
-### The pipeline
+### Security Pipeline
 
 Six tools. One workflow. Built from scratch.
 
@@ -46,6 +46,16 @@ graph TD
 
 ---
 
+### Other systems work
+
+- **[Nvidia-Challenge](https://github.com/X-Abhishek-X/Nvidia-Challenge)** — gRPC GPU telemetry orchestrator. Distributed monitoring with auto-healing actions (node drain, alert escalation) on real-time GPU metrics.
+- **[malware-deobfuscator](https://github.com/X-Abhishek-X/malware-deobfuscator)** — LLM-powered malware deobfuscation with IOC extraction and MITRE ATT&CK mapping.
+- **[Morphe-Automated-Build-Scripts](https://github.com/X-Abhishek-X/Morphe-Automated-Build-Scripts)** — GitHub Actions pipeline that builds and releases 37 patched APKs every two days. Used by real users.
+
+<br/>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X-Abhishek-X/X-Abhishek-X/output/snake-dark.svg" />
@@ -68,17 +78,12 @@ graph TD
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-Abhishek-X&theme=github-compact&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff" />
-</div>
-
-<br/>
-
 ---
 
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
