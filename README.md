@@ -48,7 +48,7 @@ graph TD
 
 ### ML & competitive research
 
-- **[OpenAI Parameter Golf](https://github.com/openai/parameter-golf/pulls?q=author%3AX-Abhishek-X)** — 7 PRs to OpenAI’s 16 MB language-model competition (3,600+ participants). Co-credited on the merged baseline ([PR #1493](https://github.com/openai/parameter-golf/pull/1493)) for hyperparameter contributions adopted in 60+ subsequent submissions. Shipped **Partial SpinQuant** (selective Hadamard rotation by layer range) and **End-to-End TTT** (matched the published wishlist item). Final score 1.06614 BPB. All three tiers of the OpenAI/RunPod compute grant awarded.
+- **[OpenAI Parameter Golf](https://github.com/openai/parameter-golf/pulls?q=author%3AX-Abhishek-X)** — 8 PRs to OpenAI’s 16 MB language-model competition (3,600+ participants). Co-credited on the merged baseline ([PR #1493](https://github.com/openai/parameter-golf/pull/1493)) for hyperparameter contributions adopted in 60+ subsequent submissions. Shipped **Partial SpinQuant** (selective Hadamard rotation by layer range) and **End-to-End TTT** (matched the published wishlist item). Final score 1.06614 BPB. All three tiers of the OpenAI/RunPod compute grant awarded.
 - **Behavioural Biometrics — Keystroke Anomaly Detection** — Multi-model continuous-authentication on the CMU keystroke dynamics benchmark. Detects session takeover via typing-rhythm deviation. Aligned with NIST SP 800-207 Zero Trust. MSc CST4565 @ MDX Dubai.
 
 <br/>
