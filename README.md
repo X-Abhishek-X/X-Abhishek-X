@@ -46,8 +46,9 @@ graph TD
 
 ---
 
-### ML & competitive research
+### AI agents & ML research
 
+- **GroundedTriage — multi-agent RAG with a deterministic guardrail** *(MSc thesis, in progress — private until September, demo on request)* — Multi-stage LangGraph agent over a RAG pipeline built end to end: ingestion, chunking, hybrid BM25 + embedding retrieval over pgvector, reranking. Every stage emits structured output with a citation required per claim, then a deterministic stage checks each claim against the retrieved evidence and blocks anything unsupported. Abstaining counts as a valid answer, so it doesn't guess to fill a gap. Gated by a **540-run evaluation harness** scoring accuracy, groundedness and latency — the harness decides whether a change ships, rather than being a report written afterwards. Runs fully local on Ollama so documents never leave the host.
 - **[OpenAI Parameter Golf](https://github.com/openai/parameter-golf/pulls?q=author%3AX-Abhishek-X)** — 8 PRs to OpenAI’s 16 MB language-model competition (3,600+ participants). Co-credited on the merged baseline ([PR #1493](https://github.com/openai/parameter-golf/pull/1493)) for hyperparameter contributions adopted in 60+ subsequent submissions. Shipped **Partial SpinQuant** (selective Hadamard rotation by layer range) and **End-to-End TTT** (matched the published wishlist item). Final score 1.06614 BPB. All three tiers of the OpenAI/RunPod compute grant awarded.
 - **Behavioural Biometrics — Keystroke Anomaly Detection** — Multi-model continuous-authentication on the CMU keystroke dynamics benchmark. Detects session takeover via typing-rhythm deviation. Aligned with NIST SP 800-207 Zero Trust. MSc CST4565 @ MDX Dubai.
 
